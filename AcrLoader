@@ -4,6 +4,10 @@ if game.PlaceId == 2788229376 then -- Da hood
    loadstring(game:HttpGet("https://github.com/Exostess/Exostwes/blob/main/busdhrfush.lua"))()
     elseif game.PlaceId == 6055959032 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Exostess/Exostwes/main/Jsjdhfyug.lua"))()
+    elseif game.PlaceId == 6452089755 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Exostess/Exostwes/main/Jsjdhfyug.lua"))()
+    elseif game.PlaceId == 6452089755 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Exostess/Exostwes/main/Jsjdhfyug.lua"))()
     else
         game.Players.LocalPlayer:kick("PERMA-BAN")
         end
