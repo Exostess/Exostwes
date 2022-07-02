@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://acronrbxs.000webhostapp.com/AcronLoader%22))()
+loadstring(game:HttpGet("https://acronrbxs.000webhostapp.com/AcronLoader"))()
